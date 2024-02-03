@@ -69,6 +69,8 @@ print("hello world")
 
 ![visual studio code logo](https://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e "vscode logo")
 
+:satisfied: :smiley:
+
 <!-- GITHUB MARKDOWN -->
 * [x] Task 1
 * [ ] Task 2
